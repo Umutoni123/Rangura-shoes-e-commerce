@@ -1,0 +1,116 @@
+{
+    "product": [
+      {
+        "id": 0,
+        "name": "shoes light weight",
+        "price": 29.99,
+        "instock": 100,
+        "description":
+          "Street Life Track Star Fashionable Running Shoes - White / 12",
+        "imgSrc": "images/li.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Leather shoes",
+        "price": 24.99,
+        "instock": 43,
+        "description":
+          "Mens Handmade Wing Tip Brogue Brown Leather Shoes",
+        "imgSrc": "images/l8.jpg"
+      },
+      {
+       "id": 2,
+       "name": "Fay Natural shoes boots",
+       "price": 19.99,
+       "instock": 10,
+       "description":
+          "This laced vegan leather high-top can be paired with almost any look.",
+      "imgSrc": "images/fa1.jpg"
+      },
+      {
+        "id": 3,
+        "name":"Ankle Boot",
+        "price": 25.99,
+        "instock": 5,
+        "description":
+          "This laced vegan leather high-top can be paired with almost any look.",
+        "imgSrc": "images/le3.jpg"
+      },
+      {
+        "id": 4,
+        "name":" Women's Nike Air Force ",
+        "price": 29.99,
+        "instock": 4,
+        "description":
+          "Air Force 1 All Black Low Sneakers Blinged Out With Authentic Clear Swarovski Crystals Custom Bling Nike Shoes",
+        "imgSrc": "images/1.jpg"
+      },
+      {
+       "id": 5,
+       "name":"canvas",
+       "price": 39.99,
+       "instock": 40,
+       "description":
+          "This laced vegan leather high-top can be paired with almost any look.",
+       "imgSrc": "images/canvas1.jpg"
+      },
+      {
+        "id": 5,
+        "name":"white boots",
+        "price": 60,
+        "instock": 40,
+        "description":
+           "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "imgSrc": "images/canvas4.jpg"
+       },
+       {
+        "id": 6,
+        "name":"Leather boot",
+        "price": 50,
+        "instock": 40,
+        "description":
+           "This laced vegan leather high-top can be paired with almost any look.",
+        "imgSrc": "images/le10.jpg"
+       },
+       {
+        "id": 7,
+        "name":"canvas",
+        "price": 25,
+        "instock": 40,
+        "description":
+           "This laced vegan leather high-top can be paired with almost any look.",
+        "imgSrc": "images/canvas5.jpg"
+       },
+       {
+        "id": 8,
+        "name":"canvas ",
+        "price": 39.99,
+        "instock": 40,
+        "description":
+           "This laced vegan leather high-top can be paired with almost any look.",
+        "imgSrc": "images/canvas6.jpg"
+       },
+       {
+        "id": 9,
+        "name":"sport shoes",
+        "price": 50,
+        "instock": 40,
+        "description":
+           "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        "imgSrc": "images/sp4.jpg"
+       },
+       {
+        "id": 10,
+        "name":"Running shoes",
+        "price": 45,
+        "instock": 40,
+        "description":
+           "Running Shoes Non Slip Trainers - Black Red",
+        "imgSrc": "images/ru.jpg"
+       }
+       
+       
+       
+
+    ]
+}
